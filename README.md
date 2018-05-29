@@ -31,7 +31,7 @@
 	- '^' matches start of string
 	- '$' matches end of string
 	- '*' zero or more repetitions
-	- '+' one or more repetitions
+	- '+' one or more repetitions.
 	- '|' the or operator, used in conjunction with parantheses ()
 	- '[]' a set of character, e.g. [abcd] or [a-zA-Z]
 	- JA the pattern J followed immediately by A
