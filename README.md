@@ -10,6 +10,9 @@
 3. why it is useful?
 	- normally the raw data is not usable, including some wrong data and missing value
 	- we need to build connection beteween different data set in order to  implement anaylsis
+4.challenge:
+	- reformatting and validating data requires transforms that can be difficult to specify and evaluate
+	- converting data values to different types
 
 ---------------------------------
 ### LECTURE 2 AND LECTURE 3 (re, XML, HTML, JSON)
