@@ -14,6 +14,7 @@
 	- reformatting and validating data requires transforms that can be difficult to specify and evaluate
 	- converting data values to different types
 
+
 ---------------------------------
 ### LECTURE 2 AND LECTURE 3 (re, XML, HTML, JSON)
 1. How is data stored and in what formats
