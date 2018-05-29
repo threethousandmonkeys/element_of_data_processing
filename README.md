@@ -46,8 +46,12 @@
 	- difference: csv file is human readable, versus binary xls(Excel)
 	- csv lack the formatting information of an xls file
 5. Motivation for XML and XML namespaces
-	-  both human and mechine readable format
-	- namespace declaration are used to qualify names with URI's.
+	* motivation: 
+	- writing good schemas is hard, so it is beneficial to re-use parts from existing, well-designed schemas. 
+	- Another is the advantage of allowing search engines or other tools to operate over a range of documents that vary in many respects but use common names for common element types.
+
+	- both human and mechine readable format
+	* namespace declaration are used to qualify names with URI's.
     A URI uniquely identifies a resource on the Web.
     Notice that a URI doesn't have to refer to a real Web resource.
 	- namespace can be used to descrive both elements and attributes.
